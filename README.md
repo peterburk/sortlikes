@@ -52,9 +52,9 @@ I sorted the Music category into Genres using the iTunes EPF data. <br/>
 <a href="https://github.com/peterburk/sortlikes/blob/master/TaiwanMusicGenres.xlsx" target=_blank>https://github.com/peterburk/sortlikes/blob/master/TaiwanMusicGenres.xlsx</a><br/>
 <br/>
 <b>What else can this model be used for?</b><br/>
-- I'm more interested in subcategories (e.g. Music > Rock, Art > Comics). 
-- Study how the categories interact with each other (e.g. the flow of money from Construction to Politics to Military). 
-- Draw a picture of your interests. These are mine:
+• I'm more interested in subcategories (e.g. Music > Rock, Art > Comics). <br/>
+• Study how the categories interact with each other (e.g. the flow of money from Construction to Politics to Military). <br/>
+• Draw a picture of your interests. These are mine:<br/>
 
 ![Interests](https://raw.githubusercontent.com/peterburk/sortlikes/master/Interests.jpg "Interests")
 <br/>
