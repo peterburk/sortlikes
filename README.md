@@ -1,24 +1,24 @@
 # sortlikes
 Sort Facebook Likes into categories<br/>
 <br/>
-<b>Usage</b>
+<b>Usage</b><br/>
 1. Go to <a href="https://www.facebook.com/me/likes" target=_blank>https://www.facebook.com/me/likes</a><br/>
 2. Scroll down, select all, copy. <br/>
 3. Go to <a href="https://peterburk.github.io/sortlikes.html" target=_blank>https://peterburk.github.io/sortlikes.html</a><br/>
 4. Paste, click the Sort button. <br/>
 5. See the results in the text area and on the graph. <br/>
 <br/>
-<b>How it works</b>
+<b>How it works</b><br/>
 Underneath each of your Likes is a Category. <br/>
 Facebook uses 825 categories. I sorted them into 30 more meaningful groups. <br/>
 When you click "sort", my program does a "Find" on the text you typed. <br/>
 <br/>
-<b>Is this safe?</b>
+<b>Is this safe?</b><br/>
 Yes. My code doesn't even read your Likes! It just searches for the category names. <br/>
 I don't upload your Likes to a server. Everything happens in Javascript in your browser. No cookies. <br/>
 If you still don't trust my code, you can save the HTML, disconnect your Internet access, and run it locally. <br/>
 <br/>
-<b>Why did you make it?</b>
+<b>Why did you make it?</b><br/>
 I'm trying to teach myself Chinese. I wrote another program, <a href="https://pingtype.github.io" target=_blank>Pingtype</a>, to let me type and read. <br/>
 Pingtype helps me read the Bible and sing in church, but I want to find new data sources. <br/>
 On 9gag, I saw a comic from <a href="http://blog.mixflavor.com" target=_blank>Mixflavor</a> translated by <a href="https://www.facebook.com/Howardinterprets/" target=_blank>HowardInterprets</a>. <br/>
@@ -42,7 +42,7 @@ If someone wants to persecute Christians, I'm ready to suffer for my religious v
 Don't judge me based on the colour of my skin, or where I was born. I can't change those. <br/>
 Judge me on the things I chose. <br/>
 <br/>
-<b>What about the Taiwan data?</b>
+<b>What about the Taiwan data?</b><br/>
 Download the Excel spreadsheet here:<br/>
 <a href="https://github.com/peterburk/sortlikes/blob/master/TaiwanLikes.xlsx" target=_blank>https://github.com/peterburk/sortlikes/blob/master/TaiwanLikes.xlsx</a><br/>
 My data is not statistically representative, because it's biased by my friends. <br/>
@@ -51,10 +51,16 @@ Subcategories are more interesting. Knowing I like Rock is more useful than know
 I sorted the Music category into Genres using the iTunes EPF data. <br/>
 <a href="https://github.com/peterburk/sortlikes/blob/master/TaiwanMusicGenres.xlsx" target=_blank>https://github.com/peterburk/sortlikes/blob/master/TaiwanMusicGenres.xlsx</a><br/>
 <br/>
-<b>What else can this model be used for?</b>
+<b>What else can this model be used for?</b><br/>
 - I'm more interested in subcategories (e.g. Music > Rock, Art > Comics). 
 - Study how the categories interact with each other (e.g. the flow of money from Construction to Politics to Military). 
 - Draw a picture of your interests. These are mine:
 
 ![Interests](https://raw.githubusercontent.com/peterburk/sortlikes/master/Interests.jpg "Interests")
 <br/>
+<b>About the author</b><br/>
+Peter Burkimsher is currently working for OSE, a memory card manufacturer in Kaohsiung, Taiwan. <br/>
+I did several projects during my 3.5 years here, including writing bit-level drivers to control memory card testing equipment, a Win32 app to parse log files and send them to a SQL server, network monitoring, and Big Data processing. <br/>
+I studied Electronic Systems Engineering at Lancaster University and graduated with first-class honours in 2011, before going off on Working Holiday visas to see the world. <br/>
+Now I have 3 years continuous relevant work experience, I’m looking for a suitable job in New Zealand so I can get the Skilled Migrant Category visa. <br/>
+(Canada’s Express Entry and Australia are also options).<br/>
